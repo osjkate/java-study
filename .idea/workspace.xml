@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb4449da-1625-4b94-87fd-d6fec6cab21c" name="Changes" comment="Exception - 연결된 예외">
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/clone/CloneEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/clone/CloneEx1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/clone/CloneEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/copy/ShallowDeepCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/equals/EqualsEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/equals/EqualsEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/getclass/ClassEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/hashcode/HashCodeEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/tostring/CardToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/tostring/CardToString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/object/tostring/ToStringTest.java" afterDir="false" />
+    <list default="true" id="cb4449da-1625-4b94-87fd-d6fec6cab21c" name="Changes" comment="java.lang - Object 클래스">
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringBufferEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringBufferEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringBufferEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,18 +54,19 @@
       <recent name="$PROJECT_DIR$/src/javalang/object" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javalang.string" />
       <recent name="exception.finallyex" />
       <recent name="exception.exceptionex" />
       <recent name="oop2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassEx1">
-    <configuration name="CardToString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.object.tostring.CardToString2" />
+  <component name="RunManager" selected="Application.StringBufferEx3">
+    <configuration name="StringBufferEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.string.StringBufferEx1" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.object.equals.*" />
+          <option name="PATTERN" value="javalang.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.object.getclass.ClassEx1" />
+    <configuration name="StringBufferEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.string.StringBufferEx2" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.object.getclass.*" />
+          <option name="PATTERN" value="javalang.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CloneEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.object.clone.CloneEx1" />
+    <configuration name="StringBufferEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.string.StringBufferEx3" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.object.equals.*" />
+          <option name="PATTERN" value="javalang.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CloneEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.object.clone.CloneEx2" />
+    <configuration name="StringEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.string.StringEx6" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.object.equals.*" />
+          <option name="PATTERN" value="javalang.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShallowDeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.object.copy.ShallowDeepCopy" />
+    <configuration name="StringEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.string.StringEx7" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.object.copy.*" />
+          <option name="PATTERN" value="javalang.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClassEx1" />
-        <item itemvalue="Application.ShallowDeepCopy" />
-        <item itemvalue="Application.CloneEx2" />
-        <item itemvalue="Application.CloneEx1" />
-        <item itemvalue="Application.CardToString2" />
+        <item itemvalue="Application.StringBufferEx3" />
+        <item itemvalue="Application.StringBufferEx2" />
+        <item itemvalue="Application.StringBufferEx1" />
+        <item itemvalue="Application.StringEx7" />
+        <item itemvalue="Application.StringEx6" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704254161069</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="java.lang - Object 클래스">
+      <created>1704348319178</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704348319178</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +245,7 @@
     <MESSAGE value="Exception - 사용자정의 예외 만들기" />
     <MESSAGE value="Exception - 예외 되던지기" />
     <MESSAGE value="Exception - 연결된 예외" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception - 연결된 예외" />
+    <MESSAGE value="java.lang - Object 클래스" />
+    <option name="LAST_COMMIT_MESSAGE" value="java.lang - Object 클래스" />
   </component>
 </project>
