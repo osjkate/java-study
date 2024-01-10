@@ -4,17 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb4449da-1625-4b94-87fd-d6fec6cab21c" name="Changes" comment="java.lang - Object 클래스">
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringBufferEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringBufferEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringBufferEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javalang/string/StringEx7.java" afterDir="false" />
+    <list default="true" id="cb4449da-1625-4b94-87fd-d6fec6cab21c" name="Changes" comment="java.lang - String 클래스">
+      <change afterPath="$PROJECT_DIR$/src/javalang/math/MathEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/math/MathEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/math/MathEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/objects/ObjectsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/random/RandomEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/random/RandomEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/random/RandomEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/random/RandomEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/regular/RegularEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/regular/RegularEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/regular/RegularEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/regular/RegularEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/wrapper/WrapperEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/wrapper/WrapperEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javalang/wrapper/WrapperEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +46,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/sujinoh/projects/java-study/src/javalang/object"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sujinoh/projects/java-study/src/javalang/object&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/javalang/object" />
@@ -60,13 +65,13 @@
       <recent name="oop2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringBufferEx3">
-    <configuration name="StringBufferEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.string.StringBufferEx1" />
+  <component name="RunManager" selected="Application.RegularEx4">
+    <configuration name="RandomEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.random.RandomEx4" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.string.*" />
+          <option name="PATTERN" value="javalang.random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.string.StringBufferEx2" />
+    <configuration name="RegularEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.regular.RegularEx1" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.string.*" />
+          <option name="PATTERN" value="javalang.regular.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.string.StringBufferEx3" />
+    <configuration name="RegularEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.regular.RegularEx2" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.string.*" />
+          <option name="PATTERN" value="javalang.regular.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.string.StringEx6" />
+    <configuration name="RegularEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.regular.RegularEx3" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.string.*" />
+          <option name="PATTERN" value="javalang.regular.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javalang.string.StringEx7" />
+    <configuration name="RegularEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javalang.regular.RegularEx4" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javalang.string.*" />
+          <option name="PATTERN" value="javalang.regular.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringBufferEx3" />
-        <item itemvalue="Application.StringBufferEx2" />
-        <item itemvalue="Application.StringBufferEx1" />
-        <item itemvalue="Application.StringEx7" />
-        <item itemvalue="Application.StringEx6" />
+        <item itemvalue="Application.RegularEx4" />
+        <item itemvalue="Application.RegularEx3" />
+        <item itemvalue="Application.RegularEx2" />
+        <item itemvalue="Application.RegularEx1" />
+        <item itemvalue="Application.RandomEx4" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704348319178</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="java.lang - String 클래스">
+      <created>1704353338649</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704353338649</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +258,7 @@
     <MESSAGE value="Exception - 예외 되던지기" />
     <MESSAGE value="Exception - 연결된 예외" />
     <MESSAGE value="java.lang - Object 클래스" />
-    <option name="LAST_COMMIT_MESSAGE" value="java.lang - Object 클래스" />
+    <MESSAGE value="java.lang - String 클래스" />
+    <option name="LAST_COMMIT_MESSAGE" value="java.lang - String 클래스" />
   </component>
 </project>
