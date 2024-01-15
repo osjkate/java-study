@@ -1,7 +1,6 @@
-package collection.hashset;
+package collection.set.hashset;
 
 import java.util.HashSet;
-import java.util.Set;
 
 public class HashSetEx2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package collection.treeset;
+package collection.set.treeset;
 
 public class AsciiPrint {
     public static void main(String[] args) {

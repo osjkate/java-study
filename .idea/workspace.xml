@@ -4,27 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb4449da-1625-4b94-87fd-d6fec6cab21c" name="Changes" comment="java.lang - Calendar">
-      <change afterPath="$PROJECT_DIR$/src/collection/arraylist/ArrayListEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/arraylist/ArraylistEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/comparator/ComparatorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/hashset/Bingo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/hashset/HashSetEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/hashset/HashSetEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/hashset/HashSetEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/hashset/HashSetEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/hashset/HashSetLotto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/iterator/IteratorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/iterator/IteratorEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/iterator/ListIteratorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/QueueEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/StackEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/StackQueueEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/treeset/AsciiPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/treeset/TreeSetEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/treeset/TreeSetLotto.java" afterDir="false" />
+    <list default="true" id="cb4449da-1625-4b94-87fd-d6fec6cab21c" name="Changes" comment="java.lang - TreeSet">
+      <change afterPath="$PROJECT_DIR$/src/collection/CollectionEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/hashmap/HashMapEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/hashmap/HashMapEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/hashmap/HashMapEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/hashmap/HashMapEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/properties/PropertiesEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/properties/PropertiesEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/properties/PropertiesEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/properties/PropertiesEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/map/treemap/TreeSetEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/hashset/Bingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/hashset/Bingo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/hashset/HashSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/hashset/HashSetEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/hashset/HashSetEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/hashset/HashSetEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/hashset/HashSetEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/hashset/HashSetEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/hashset/HashSetEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/hashset/HashSetEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/hashset/HashSetLotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/hashset/HashSetLotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/treeset/AsciiPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/treeset/AsciiPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/treeset/TreeSetEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/treeset/TreeSetEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/treeset/TreeSetEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/treeset/TreeSetEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/treeset/TreeSetLotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/set/treeset/TreeSetLotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +51,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/sujinoh/projects/java-study/src/javalang/object",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sujinoh/projects/java-study/src/javalang/object&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/javalang/object" />
@@ -71,13 +72,13 @@
       <recent name="oop2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TreeSetEx2">
-    <configuration name="AsciiPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.treeset.AsciiPrint" />
+  <component name="RunManager" selected="Application.CollectionEx">
+    <configuration name="CollectionEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.CollectionEx" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.treeset.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +86,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.hashset.HashSetEx4" />
+    <configuration name="PropertiesEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.map.properties.PropertiesEx1" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.hashset.*" />
+          <option name="PATTERN" value="collection.map.properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.map.properties.PropertiesEx2" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.map.properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.map.properties.PropertiesEx4" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.map.properties.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,37 +126,11 @@
       </method>
     </configuration>
     <configuration name="TreeSetEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.treeset.TreeSetEx1" />
+      <option name="MAIN_CLASS_NAME" value="collection.map.treemap.TreeSetEx1" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.treeset.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeSetEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.treeset.TreeSetEx2" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.treeset.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeSetLotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.treeset.TreeSetLotto" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.treeset.*" />
+          <option name="PATTERN" value="collection.map.treemap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TreeSetEx2" />
-        <item itemvalue="Application.AsciiPrint" />
+        <item itemvalue="Application.CollectionEx" />
+        <item itemvalue="Application.PropertiesEx4" />
+        <item itemvalue="Application.PropertiesEx2" />
+        <item itemvalue="Application.PropertiesEx1" />
         <item itemvalue="Application.TreeSetEx1" />
-        <item itemvalue="Application.TreeSetLotto" />
-        <item itemvalue="Application.HashSetEx4" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704872827869</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="java.lang - TreeSet">
+      <created>1705130654232</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705130654232</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +289,7 @@
     <MESSAGE value="java.lang - String 클래스" />
     <MESSAGE value="java.lang - Math, Objects, Random, 정규식" />
     <MESSAGE value="java.lang - Calendar" />
-    <option name="LAST_COMMIT_MESSAGE" value="java.lang - Calendar" />
+    <MESSAGE value="java.lang - TreeSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="java.lang - TreeSet" />
   </component>
 </project>
